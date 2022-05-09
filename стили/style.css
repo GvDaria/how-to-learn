@@ -229,6 +229,11 @@
   flex-direction: column;
   background:  #1f1f1f;
   color: white;
+  background-image: url(../how-to-learn/how-to-learn/images/kaufman-triangle.svg);
+  background-repeat: no-repeat;
+  background-size: 877px 877px;
+  background-position: left bottom;
+  z-index: 1;
 }
 
 .section-title_theme_dark{
@@ -251,14 +256,6 @@
   font-size: 24px;
   font-weight: normal;
   z-index: 2;
-}
-
-.kaufman__triangle{
-  position: absolute;
-  right: -210px;
-  width: 877px;
-  height: 877px;
-  z-index: 1;
 }
 
 .table_theme_dark{
