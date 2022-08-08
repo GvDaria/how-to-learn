@@ -5,3 +5,9 @@
   text-decoration: none;
   color: #2f80ed;
 }
+
+.header__link:hover {
+  color: #2f80ed;
+  opacity: 0.6;
+  transition: .2s linear;
+ }
