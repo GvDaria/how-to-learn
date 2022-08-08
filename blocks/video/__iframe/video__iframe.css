@@ -1,7 +1,11 @@
 .video__iframe {
   width: 515px;
   height: 316px;
-  margin-right: 20px;
+  margin-right: 10px;
   box-sizing: border-box;
   border: 0;
+}
+
+.video__iframe:nth-of-type(2n) {
+  margin-right: 0px;
 }
